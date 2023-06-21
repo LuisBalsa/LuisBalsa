@@ -22,7 +22,32 @@ int main(void)
 
 Keep coding, keep laughing, and let the GitHub journey continue!
 
- 
+
+```mermaid
+ graph TD
+    A[Start] --> B{GitHub Journey}
+    B -- Have Bugs? --> C[Yes]
+    C -- Can't Reproduce? --> D[No]
+    D -- Magic Fix --> E[Yes]
+    E --> F[Is it Legal?]
+    F -- Yes --> G[Commit and Push]
+    F -- No --> H[Tell No One]
+    G --> I[Build Fails]
+    I -- Crying --> J[Tweak Code]
+    I -- Happy Dance --> K[Success!]
+    H --> K
+    D -- Time to Google --> L[No]
+    L --> M[Find Stack Overflow]
+    M -- Solution Found --> N[Implement]
+    N --> D
+    L -- No Solution --> O[Time for Coffee]
+    O --> B
+    C -- So Many --> P[Yes]
+    P -- Overwhelmed --> Q[Cry in the Corner]
+    P -- Challenge Accepted --> R[Fix One at a Time]
+    R --> C
+    Q --> O
+```
 
 [![luide-so's 42 stats](https://badge42.vercel.app/api/v2/cliz47dkj002107l6meq0v0l5/stats?cursusId=21&coalitionId=236)](https://github.com/JaeSeoKim/badge42)
 
