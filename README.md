@@ -1,3 +1,29 @@
+# Hello World!
+
+```c
+#include "libft.h"
+
+int main(void)
+{
+    int excitement = ft_strlen("super excited");
+    
+    while (excitement--)
+        ft_printf("Woo");
+    
+    ft_printf("!\n");
+    ft_printf("Hello, GitHub! I'm a student from 42 Code School.\n");
+    ft_printf("Today, I'm here to present my GitHub journey, which has been quite an adventure!\n");
+    ft_printf("GitHub has been my trusted companion, like a forever loop, always there to support me in my coding endeavors.\n");
+    ft_printf("Thank you for listening, and remember, keep coding, keep pushing, and always embrace the curly braces!\n");
+    
+    return (0);
+}
+```
+
+Keep coding, keep laughing, and let the GitHub journey continue!
+
+ 
+
 [![luide-so's 42 stats](https://badge42.vercel.app/api/v2/cliz47dkj002107l6meq0v0l5/stats?cursusId=21&coalitionId=236)](https://github.com/JaeSeoKim/badge42)
 
 
