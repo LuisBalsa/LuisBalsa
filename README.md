@@ -52,7 +52,7 @@ Keep coding, keep laughing, and let the GitHub journey continue!
 [![luide-so's 42 stats](https://badge42.vercel.app/api/v2/cliz47dkj002107l6meq0v0l5/stats?cursusId=21&coalitionId=236)](https://github.com/JaeSeoKim/badge42)
 
 
-### pipex [![luide-so's 42 pipex Score](https://badge42.vercel.app/api/v2/cliz47dkj002107l6meq0v0l5/project/3120120)](https://github.com/JaeSeoKim/badge42)
+### [pipex](https://github.com/LuisBalsa/pipex) [![luide-so's 42 pipex Score](https://badge42.vercel.app/api/v2/cliz47dkj002107l6meq0v0l5/project/3120120)](https://github.com/JaeSeoKim/badge42)
 
 ### [push_swap](https://github.com/LuisBalsa/push_swap) [![luide-so's 42 push_swap Score](https://badge42.vercel.app/api/v2/cliz47dkj002107l6meq0v0l5/project/3102894)](https://github.com/JaeSeoKim/badge42)
 
