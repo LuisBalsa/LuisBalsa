@@ -49,21 +49,25 @@ Keep coding, keep laughing, and let the GitHub journey continue!
     Q --> O
 ```
 
-[![luide-so's 42 stats](https://badge42.vercel.app/api/v2/cliz47dkj002107l6meq0v0l5/stats?cursusId=21&coalitionId=236)](https://github.com/JaeSeoKim/badge42)
 
 
-### [so_long](https://github.com/LuisBalsa/so_long) [![luide-so's 42 so_long Score](https://badge42.vercel.app/api/v2/cliz47dkj002107l6meq0v0l5/project/3135229)](https://github.com/JaeSeoKim/badge42)
+### [minishell](https://github.com/LuisBalsa/minishell) <img src="https://user-images.githubusercontent.com/81270660/277712523-3ec4d503-3602-4a29-8e54-eba257051073.png" width="50" height="31">
 
-### [pipex](https://github.com/LuisBalsa/pipex) [![luide-so's 42 pipex Score](https://badge42.vercel.app/api/v2/cliz47dkj002107l6meq0v0l5/project/3120120)](https://github.com/JaeSeoKim/badge42)
+### [so_long](https://github.com/LuisBalsa/so_long) <img src="https://user-images.githubusercontent.com/81270660/277712523-3ec4d503-3602-4a29-8e54-eba257051073.png" width="50" height="31">
 
-### [push_swap](https://github.com/LuisBalsa/push_swap) [![luide-so's 42 push_swap Score](https://badge42.vercel.app/api/v2/cliz47dkj002107l6meq0v0l5/project/3102894)](https://github.com/JaeSeoKim/badge42)
+### [pipex](https://github.com/LuisBalsa/pipex) <img src="https://user-images.githubusercontent.com/81270660/277712523-3ec4d503-3602-4a29-8e54-eba257051073.png" width="50" height="31">
 
-### [ft_printf](https://github.com/LuisBalsa/ft_printf) [![luide-so's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cliz47dkj002107l6meq0v0l5/project/3080240)](https://github.com/JaeSeoKim/badge42)
+### [push_swap](https://github.com/LuisBalsa/push_swap) <img src="https://user-images.githubusercontent.com/81270660/277712523-3ec4d503-3602-4a29-8e54-eba257051073.png" width="50" height="31">
 
-### [Libft](https://github.com/LuisBalsa/Libft) [![luide-so's 42 Libft Score](https://badge42.vercel.app/api/v2/cliz47dkj002107l6meq0v0l5/project/3062430)](https://github.com/JaeSeoKim/badge42)
+### [ft_printf](https://github.com/LuisBalsa/ft_printf)  <img src="https://user-images.githubusercontent.com/81270660/277712523-3ec4d503-3602-4a29-8e54-eba257051073.png" width="50" height="31">
 
-### [get_next_line](https://github.com/LuisBalsa/get_next_line) [![luide-so's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cliz47dkj002107l6meq0v0l5/project/3086502)](https://github.com/JaeSeoKim/badge42)
+### [Libft](https://github.com/LuisBalsa/Libft)  <img src="https://user-images.githubusercontent.com/81270660/277712523-3ec4d503-3602-4a29-8e54-eba257051073.png" width="50" height="31">
 
-### [Born2beRoot](https://github.com/LuisBalsa/Born2beRoot) [![luide-so's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cliz47dkj002107l6meq0v0l5/project/3090025)](https://github.com/JaeSeoKim/badge42)
+### [get_next_line](https://github.com/LuisBalsa/get_next_line)  <img src="https://user-images.githubusercontent.com/81270660/277712523-3ec4d503-3602-4a29-8e54-eba257051073.png" width="50" height="31">
 
-### [42_Exam_Level_2](https://github.com/LuisBalsa/42_Exam_Level_2) [![luide-so's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cliz47dkj002107l6meq0v0l5/project/3109774)](https://github.com/JaeSeoKim/badge42)
+### [Born2beRoot](https://github.com/LuisBalsa/Born2beRoot)  <img src="https://user-images.githubusercontent.com/81270660/277712523-3ec4d503-3602-4a29-8e54-eba257051073.png" width="50" height="31">
+
+### [42_Exam_Level_2](https://github.com/LuisBalsa/42_Exam_Level_2)
+
+### [42_Exam_Level_4](https://github.com/LuisBalsa/42_Exam_Level_4)
+
