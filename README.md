@@ -1,7 +1,7 @@
 # Luis Balsa's Projects
 
 ## Introduction
-Welcome to the main page of Luis Balsa's GitHub repository. Here you'll find a collection of projects showcasing my skills and expertise as a software developer. From small-scale shell programs to 2D games, each project reflects my dedication to craftsmanship, problem-solving, and continuous learning.
+Welcome to the main page of Luis Balsa's GitHub repository. Here you'll find a collection of projects showcasing my skills and expertise as a software developer. From small-scale shell programs to games, each project reflects my dedication to craftsmanship, problem-solving, and continuous learning.
 
 ## About Me
 I am Luis Balsa, a dedicated software developer with a strong academic background in computer science and extensive hands-on experience in various programming languages and technologies. My journey in the realm of software development has been characterized by a passion for programming, a commitment to excellence, and a drive for continuous improvement.
@@ -15,6 +15,11 @@ My technical skills include the following languages and tools:
 The Minishell project is a command-line shell program developed as a learning exercise. It replicates basic Unix shell functionality and demonstrates my proficiency in system calls, process management, and command execution logic using a binary tree structure. 
 
 [Minishell GitHub Repository](https://github.com/LuisBalsa/Minishell)
+
+### Cub3D Project
+The Cub3D project is a homage to the iconic Wolfenstein 3D game, where players navigate through a dynamic view inside a maze. Using ray-casting techniques, the project offers an immersive experience that challenges players to find their way out of the labyrinthine corridors. Along the way, players encounter enemies and engage in thrilling shootouts.
+
+[Cub3D GitHub Repository](https://github.com/LuisBalsa/Cub3d)
 
 ### So Long - Peter Griffin VS Ernie the Giant Chicken
 "So Long" is a 2D game developed as part of the curriculum at 42 code school. It features sprite animations, map rendering, and character movement mechanics. The game is built using the MiniLibX graphical library and showcases my skills in computer graphics programming and game development.
@@ -39,6 +44,22 @@ The Minishell project utilizes a binary tree data structure to manage the execut
 #### Project Achievements
 The Minishell project achieved the maximum score of 125, demonstrating the successful implementation of all required features and meeting project objectives.
 
+### Cub3D Project Details
+#### Overview
+![Peek 2024-03-20 22-18](https://github.com/LuisBalsa/Cub3d/assets/81270660/5ca81258-e10a-4aa4-b3bb-258862b09789)
+
+
+#### Key Features
+- Ray-casting implementation for dynamic view rendering.
+- Maze exploration with interactive movement controls.
+- Texture mapping to create immersive environments.
+- Collision detection to navigate through the maze without passing through walls.
+- Interaction with enemies, including shootouts with realistic bullet mechanics.
+- Player health and ammo management, with consequences for getting hit and firing shots.
+
+#### Project Achievements
+The project achieved the maximum score of 125, demonstrating the successful implementation of all required features and meeting project objectives.
+
 ### So Long Project Details
 #### Overview
 ![simplescreenrecorder-game-play](https://user-images.githubusercontent.com/81270660/255337185-03cbcf88-f751-4345-848d-af5c3c3383fe.gif)
@@ -49,6 +70,10 @@ The Minishell project achieved the maximum score of 125, demonstrating the succe
 - Map rendering and collision detection.
 - Character movement mechanics, including player controls and enemy behavior.
 - Bonus features such as Eric_Trump mode, where enemies actively pursue the player character.
+
+
+#### Project Achievements
+The project achieved the maximum score of 125, demonstrating the successful implementation of all required features and meeting project objectives.
 
 
 ## Contact Information
