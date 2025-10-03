@@ -71,6 +71,6 @@ The project achieved the maximum score of 125, demonstrating the successful impl
 
 
 ## Contact Information
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/luisbalsa/) for inquiries, collaborations, or further discussions.
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/luis-balsa87/) for inquiries, collaborations, or further discussions.
 
 Thank you for visiting my GitHub repository! I hope you find my projects insightful and inspiring. Happy coding!
