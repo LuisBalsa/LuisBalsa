@@ -1,14 +1,8 @@
 # Luis Balsa's Projects
 
-## Introduction
-Welcome to the main page of Luis Balsa's GitHub repository. Here you'll find a collection of projects showcasing my skills and expertise as a software developer. From small-scale shell programs to games, each project reflects my dedication to craftsmanship, problem-solving, and continuous learning.
+Welcome to my GitHub! This repository started as a showcase of my academic journey at 42 Porto, where I built projects ranging from Unix shells to 3D games. Since then, I’ve expanded my work into professional software development, contributing to real-world projects in smart mobility, IoT, and cross-platform mobile applications.
 
-## About Me
-I am Luis Balsa, a dedicated software developer with a strong academic background in computer science and extensive hands-on experience in various programming languages and technologies. My journey in the realm of software development has been characterized by a passion for programming, a commitment to excellence, and a drive for continuous improvement.
-
-## Skills
-My technical skills include the following languages and tools:
--C - C++ - Python - Makefile - Bash - Shell scripting - Git - Scrum - Agile
+Here you’ll find my academic projects in C and C++, and soon I’ll be sharing more about the professional and collaborative projects I’ve been part of, including a multimodal route planning app and an ongoing cross-platform app for interactive historical tours.
 
 ## Projects Overview
 ### Minishell Project
